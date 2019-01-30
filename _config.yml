@@ -8,7 +8,7 @@
 # General App Info
 #
 app:
-  name: Have enough pen pals? Start d8’ing
+  name:
   #ios_id: [xxx] # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   #android_id: # Optional - Enter Android app id like: com.example.app
 
@@ -43,7 +43,7 @@ app:
 # Marketing
 #
 marketing_header: Coming soon! # Optional
-marketing_desc: d8 is the safest and most convenient way to arrange a date in London, offering more meaningful interactions per match than any other dating app on the market.
+marketing_desc: Have enough pen pals? Start d8’ing
 
 #
 # Social Links
