@@ -65,7 +65,7 @@ social-links:
 #
 enable:
   app_icon: true
-  smart_app_banner: true
+  smart_app_banner: false
 
 #
 # Device
@@ -80,8 +80,8 @@ device: iphone-se-silver-vertical # REQUIRED
 #
 # Theme Settings
 #
-background_color: "#989898" # Optional
-background_image: /images/backgrounds/d8_website_v1.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
+background_color: "#7cc6fe" 
+background_image:  # Optional - Use Relative path e.g. images/backgrounds/image.jpg
 text_color: white # Optional
 link_color: # Optional
 social_link_color: white # Optional
